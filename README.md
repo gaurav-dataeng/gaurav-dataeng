@@ -11,4 +11,4 @@ Data Engineer specializing in:
 ## 🚀 Featured Project
 🔗 [SaaS Lakehouse on AWS](https://github.com/gaurav-dataeng/saas-lakehouse-aws)
 
-📫 Contact: datacode.gaurav@gmail.com<!--
+📫 Contact: datacode.gaurav@gmail.com
